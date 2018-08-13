@@ -1,4 +1,5 @@
 # devops-aula02
-# Grace Moretz
+# Gal Gadot
 # Patrick Stewart
 # Chris Hemsworth
+# Grace Moretz
